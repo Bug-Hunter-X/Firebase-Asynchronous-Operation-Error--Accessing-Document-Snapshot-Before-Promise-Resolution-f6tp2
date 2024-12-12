@@ -1,0 +1,1 @@
+The solution uses async/await and try...catch blocks for more robust error handling. It ensures that data is accessed only after the promise resolves successfully, avoiding undefined values or errors.  Error handling is also implemented to gracefully manage potential exceptions.
